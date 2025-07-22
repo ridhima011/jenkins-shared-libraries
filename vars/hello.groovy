@@ -1,3 +1,3 @@
-void call(){
+def call(){
   echo "HEllo friends"
 }
